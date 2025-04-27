@@ -1,7 +1,7 @@
-# 🌟 Kubernetes Concepts Notes
+# 🌟 Kubernetes Concepts: KillerCoda Solutions
 
 Welcome to the **Kubernetes Concepts Notes** repository!  
-This collection of Markdown files provides clear explanations and in-depth coverage of essential Kubernetes topics, authored by **[AbdallahHisham01](https://github.com/AbdallahHisham01)**.
+This collection of Markdown files provides that provide solutions to various KillerCoda problems, authored by **[AbdallahHisham01](https://github.com/AbdallahHisham01)**.
 
 ---
 
@@ -33,6 +33,9 @@ This collection of Markdown files provides clear explanations and in-depth cover
 
 ## 📝 Author
 
-- **GitHub**: [AbdallahHisham01](https://github.com/AbdallahHisham01)
+[![GitHub](https://img.shields.io/badge/GitHub-AbdallahHisham-black)](https://github.com/AbdallahHisham01)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdallahHisham-blue)](https://www.linkedin.com/in/abdallah-hisham-hamed/)
+
 
 ---
